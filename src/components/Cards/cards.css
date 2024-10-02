@@ -1,0 +1,36 @@
+
+.button{
+    margin-left: 5px;
+}
+.githublogo{
+    left:10px;
+}
+
+
+.card{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+@media (max-width: 767px) {
+    .card{
+      margin-left: 10px;
+      margin-right: 20px;
+      align-items: center;
+      align-content: center;/* Display cards in a single column on small screens */
+    
+    }
+
+    .button{
+        width: 120px;
+        margin-left: 2px;
+    }
+
+
+}
+
+.icon{
+    padding-left: 3px;
+}
+  
+  

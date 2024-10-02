@@ -1,0 +1,98 @@
+
+.mb-3{
+  margin-top: 10px;
+}
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: right;
+    
+  }
+  
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  li a:hover{
+   color:#FF0;
+   
+ 
+    
+   
+  }
+  
+ 
+  .logo{
+    float:left;
+    height:30px;
+    width:30px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+     }
+
+     
+   
+   .logodiv {
+    position: relative; /* Ensure relative positioning for the container */
+    display: inline-block; 
+    /* Adjust container width as needed */
+  }
+  .logodiv:hover .logo {
+    opacity: 0; /* Hide the logo when container is hovered over */
+  }
+
+  .logodiv:hover::before {
+    content: ''; /* Required for pseudo-element */
+    position: absolute; /* Position pseudo-element absolutely */
+    top: 0;
+    left: 0;
+    width: 100px; /* Adjust width as needed */
+    height: 100%;
+    background: url(../../assets/welcome.gif) center/cover; /* Set background image */
+    opacity: 1;
+    pointer-events: none; 
+    margin-left: 10px;/* Show the welcome image when container is hovered over */
+  }
+    
+  @media (max-width: 767px) {
+  
+    .logodiv:hover::before {
+      content: ''; /* Required for pseudo-element */
+      position: absolute; /* Position pseudo-element absolutely */
+      top: 0;
+      left: 0;
+      width: 60px; /* Adjust width as needed */
+      height: 100%;
+      background: url(../../assets/welcome.gif) center/cover; /* Set background image */
+      opacity: 1;
+      pointer-events: none; 
+      margin-left: 10px;/* Show the welcome image when container is hovered over */
+    }
+   
+     .home{
+      opacity: 0;
+     }
+  
+  }
+      
+    

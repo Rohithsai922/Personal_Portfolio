@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cbb4061b.css",
+    "main.js": "/static/js/main.9fcc7162.js",
+    "static/js/592.bf6ca574.chunk.js": "/static/js/592.bf6ca574.chunk.js",
+    "static/media/welcome.gif": "/static/media/welcome.528e4817475ecb779fb3.gif",
+    "static/media/Profile_img.png": "/static/media/Profile_img.79cc0fff3cfb96a2dda1.png",
+    "static/media/php.png": "/static/media/php.51ee693d6205b1bfd783.png",
+    "static/media/bakery_bg.jpg": "/static/media/bakery_bg.f2a0c127dfc5b6a312fa.jpg",
+    "static/media/bhashyam.png": "/static/media/bhashyam.fdcad0cf14b3d1603333.png",
+    "static/media/exp_man_bg.webp": "/static/media/exp_man_bg.1ad9978359a8de301e69.webp",
+    "static/media/Rohith_sai_Resume.pdf": "/static/media/Rohith_sai_Resume.606b3002a322580b8a6a.pdf",
+    "static/media/svnit.png": "/static/media/svnit.6a79ebaba88c9423ac70.png",
+    "static/media/mysql.png": "/static/media/mysql.a1b0de680138097fa0e5.png",
+    "static/media/html.png": "/static/media/html.b24d00730e44bc218d2b.png",
+    "static/media/c.png": "/static/media/c.b9a9ea48de60fc00ad5c.png",
+    "static/media/js.png": "/static/media/js.c8dd1d692e8d927be46f.png",
+    "static/media/css.png": "/static/media/css.346f56a103bfe350ac65.png",
+    "static/media/thanks.gif": "/static/media/thanks.a5ef9808970e9f827c92.gif",
+    "static/media/cppbgless.png": "/static/media/cppbgless.c6e2fff47c3d0495a018.png",
+    "static/media/aboutimg.png": "/static/media/aboutimg.7d71b8301a753e6790e7.png",
+    "static/media/blog.png": "/static/media/blog.a9c79b2018475b61d3ca.png",
+    "static/media/react.png": "/static/media/react.44319306359c7112276d.png",
+    "static/media/pointer.gif": "/static/media/pointer.1389dbdfe8c06c4e04d0.gif",
+    "index.html": "/index.html",
+    "main.cbb4061b.css.map": "/static/css/main.cbb4061b.css.map",
+    "main.9fcc7162.js.map": "/static/js/main.9fcc7162.js.map",
+    "592.bf6ca574.chunk.js.map": "/static/js/592.bf6ca574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb4061b.css",
+    "static/js/main.9fcc7162.js"
+  ]
+}
